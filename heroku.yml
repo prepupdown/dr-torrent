@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: bash début.sh
+  web: bash start.sh
